@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "allowJs": true,
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "outDir": "dist",
+    "target": "es2020",
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "noEmit": false,
+    "jsx": "react",
+    "sourceMap": false,
+    "inlineSourceMap": true
+  }
+}
